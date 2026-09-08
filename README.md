@@ -229,4 +229,8 @@
 | [brightheartma](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/253285555.md) |   |   |   |   |   |   |   |
 | [hongyangchun](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/196130236.md) |   |   |   |   |   |   |   |
 | [Bro-42](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/287576312.md) |   |   |   |   |   |   |   |
+| [ZiYang0702](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/306981362.md) |   |   |   |   |   |   |   |
+| [xu-nicolas](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/7280429.md) |   |   |   |   |   |   |   |
+| [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) |   |   |   |   |   |   |   |
+| [Camusugar](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/32829983.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
