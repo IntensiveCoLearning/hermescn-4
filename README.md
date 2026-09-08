@@ -234,4 +234,6 @@
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) |   |   |   |   |   |   |   |
 | [Camusugar](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/32829983.md) |   |   |   |   |   |   |   |
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/308174533.md) |   |   |   |   |   |   |   |
+| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/176461498.md) |   |   |   |   |   |   |   |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/190499865.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
