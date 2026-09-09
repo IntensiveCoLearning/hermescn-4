@@ -243,4 +243,5 @@
 | [fylucion](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/227580028.md) |   |   |   |   |   |   |   |
 | [CeliaCheng888](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/315270656.md) |   |   |   |   |   |   |   |
 | [Amber-DD](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/282824689.md) |   |   |   |   |   |   |   |
+| [fchuang508](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/1972665.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
