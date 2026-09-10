@@ -220,7 +220,7 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 9.10 | 9.11 | 9.12 | 9.13 | 9.14 | 9.15 | 9.16 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [rayjun](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/7517993.md) |   |   |   |   |   |   |   |
+| [rayjun](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/7517993.md) | ✅ |   |   |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/49739676.md) | ✅ |   |   |   |   |   |   |
 | [qiaopengjun5162](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/124650229.md) | ✅ |   |   |   |   |   |   |
 | [freetrip1](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/83521918.md) |   |   |   |   |   |   |   |
