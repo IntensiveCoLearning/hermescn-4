@@ -226,7 +226,7 @@
 | [freetrip1](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/83521918.md) | ⭕️ |   |   |   |   |   |   |
 | [camelliainforest](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/227721504.md) | ✅ |   |   |   |   |   |   |
 | [Sofia16](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/20186317.md) | ✅ | ✅ |   |   |   |   |   |
-| [brightheartma](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/253285555.md) | ✅ |   |   |   |   |   |   |
+| [brightheartma](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/253285555.md) | ✅ | ✅ |   |   |   |   |   |
 | [hongyangchun](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/196130236.md) | ⭕️ |   |   |   |   |   |   |
 | [Bro-42](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/287576312.md) | ⭕️ |   |   |   |   |   |   |
 | [ZiYang0702](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/306981362.md) | ⭕️ |   |   |   |   |   |   |
