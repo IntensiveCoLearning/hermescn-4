@@ -231,13 +231,13 @@
 | [Bro-42](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/287576312.md) | ⭕️ |   |   |   |   |   |   |
 | [ZiYang0702](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/306981362.md) | ⭕️ |   |   |   |   |   |   |
 | [xu-nicolas](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/7280429.md) | ⭕️ |   |   |   |   |   |   |
-| [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) | ✅ |   |   |   |   |   |   |
+| [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) | ✅ | ✅ |   |   |   |   |   |
 | [Camusugar](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/32829983.md) | ⭕️ |   |   |   |   |   |   |
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/308174533.md) | ✅ |   |   |   |   |   |   |
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/176461498.md) | ✅ |   |   |   |   |   |   |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/190499865.md) | ✅ |   |   |   |   |   |   |
 | [CHS1997](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/27101642.md) | ✅ | ✅ |   |   |   |   |   |
-| [zhouCode](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/31700009.md) | ✅ |   |   |   |   |   |   |
+| [zhouCode](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/31700009.md) | ✅ | ✅ |   |   |   |   |   |
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/197507345.md) | ✅ |   |   |   |   |   |   |
 | [wodeche](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/40746051.md) | ⭕️ | ✅ |   |   |   |   |   |
 | [fylucion](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/227580028.md) | ⭕️ |   |   |   |   |   |   |
