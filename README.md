@@ -231,7 +231,7 @@
 | [Bro-42](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/287576312.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [ZiYang0702](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/306981362.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [xu-nicolas](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/7280429.md) | ⭕️ | ❌ |   |   |   |   |   |
-| [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) | ✅ | ✅ |   |   |   |   |   |
+| [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/29766018.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [Camusugar](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/32829983.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/308174533.md) | ✅ | ⭕️ |   |   |   |   |   |
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/176461498.md) | ✅ | ⭕️ |   |   |   |   |   |
