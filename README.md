@@ -236,14 +236,14 @@
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/308174533.md) | ✅ | ⭕️ | ❌ |   |   |   |   |
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/176461498.md) | ✅ | ⭕️ | ✅ | ❌ |   |   |   |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/190499865.md) | ✅ | ⭕️ | ✅ | ✅ |   |   |   |
-| [CHS1997](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/27101642.md) | ✅ | ✅ | ✅ | ✅ |   |   |   |
+| [CHS1997](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/27101642.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [zhouCode](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/31700009.md) | ✅ | ✅ | ✅ | ✅ |   |   |   |
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/197507345.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [wodeche](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/40746051.md) | ⭕️ | ✅ | ❌ |   |   |   |   |
 | [fylucion](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/227580028.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [CeliaCheng888](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/315270656.md) | ✅ | ✅ | ⭕️ | ✅ |   |   |   |
 | [Amber-DD](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/282824689.md) | ⭕️ | ❌ |   |   |   |   |   |
-| [fchuang508](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/1972665.md) | ✅ | ✅ | ⭕️ | ✅ |   |   |   |
+| [fchuang508](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/1972665.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |   |
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/40992395.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [myspacehub](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/284569387.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [kelseywonggg](https://github.com/IntensiveCoLearning/hermescn-4/blob/main/notes/245296615.md) | ✅ | ✅ | ✅ | ✅ |   |   |   |
